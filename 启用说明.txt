@@ -1,0 +1,10 @@
+工程文件原始说明
+1.进行项目初始化
+cmd 当前目录
+npm i
+2.npm run build:dll #第一次npm run dev时需运行此命令，使开发时编译更快
+npm run dev
+打开 http://localhost:8000
+
+3.cnpm install node-forge --save
+安装md5加密组件
